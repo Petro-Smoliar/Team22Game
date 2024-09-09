@@ -1,0 +1,4 @@
+repository "team22game@smpGame@cloud"
+  path "/"
+    br "/main"
+    co "/main"
